@@ -298,6 +298,10 @@ footer {
 .social-icon {
 	margin-top: 10px;
 }
+.img-fluid {
+	margin: -10px auto;
+	display: block;
+}	
 
 }
 
