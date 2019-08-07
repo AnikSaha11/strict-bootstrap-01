@@ -150,7 +150,7 @@ header {
 	margin-bottom: 25px;
 }
 .image-hover {
-	background-color: #15a4fa85;
+	background-color: rgba(21, 164, 250, 0.5215686274509804);
 	position: absolute;
 	width: 100%;
     height: 100%;
